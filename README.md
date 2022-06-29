@@ -6,3 +6,4 @@ I built with the help of staff 1337 khouribga a website where we motivate women 
 
 Demonstration of how the website works.
 
+<img src="./videos-readme/Home.gif" />
